@@ -87,10 +87,10 @@ const todoList = new TodoList();
 
 function showMenu(): void {
           console.log("\nTo-Do List CLI");
-          console.log("1. Add Task");
+          console.log("1. Add a new Task");
           console.log("2. View All Tasks");
           console.log("3. Mark Task as Completed");
-          console.log("4. Remove Task");
+          console.log("4. Remove Task from Todo");
           console.log("5. Filter by Completed/Pending");
           console.log("6. Update Task Description");
           console.log("7. Clear Completed Tasks");
